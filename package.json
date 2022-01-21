@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-pdf",
+  "version": "1.0.0",
+  "description": "We will use AWS Lambda to perform containerized deployment using ECR, manipulate Node.js Puppeteer on Lambda to convert target URLs to PDF and download them, and assume that AWS Lambda will run via API Gateway.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TakashiKakizoe",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
